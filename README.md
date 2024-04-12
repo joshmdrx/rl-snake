@@ -15,8 +15,6 @@ Here you can:
   - [The game](#the-game)
   - [The RL environment](#the-rl-environment)
   - [The RL agent](#the-rl-agent)
-  - [The Challenge and submission process](#the-challenge-and-submission-process)
-    - [Limits](#limits)
 
 ## Set up
 
